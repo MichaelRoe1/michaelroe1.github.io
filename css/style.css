@@ -46,10 +46,10 @@ img { max-width: 100%; height: auto; display: block; }
 .wordmark {
   display: block;
   width: 100%;
-  max-width: 280px;
-  margin: 0 0 1.25rem;
+  max-width: 100px;
+  margin: 0 0 1rem;
 }
-.wordmark img { width: 100%; height: auto; }
+.wordmark img { width: 100%; height: auto; display: block; }
 
 .site-nav {
   display: flex;
